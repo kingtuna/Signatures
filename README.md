@@ -1,2 +1,2 @@
 # Signatures
-A micture of snort and suricata signatures
+A mixture of snort and suricata signatures
